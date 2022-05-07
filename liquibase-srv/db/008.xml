@@ -1,0 +1,14 @@
+<databaseChangeLog xmlns='http://www.liquibase.org/xml/ns/dbchangelog'
+  xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+  xsi:schemaLocation='http://www.liquibase.org/xml/ns/dbchangelog
+    http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-2.0.xsd'>
+  <changeSet id="008" author="ur">
+    <sql>
+      CREATE VIEW `animal`.dog_expanded AS
+      SELECT d.id, b.breed, c.color
+      FROM animal.dog as d
+      JOIN animal.breedLookup as b ON b.id = d.breedId
+      JOIN animal.colorLookup as c ON c.id = d.colorId;
+    </sql>
+  </changeSet>
+</databaseChangeLog>

@@ -1,0 +1,15 @@
+<databaseChangeLog xmlns='http://www.liquibase.org/xml/ns/dbchangelog'
+  xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+  xsi:schemaLocation='http://www.liquibase.org/xml/ns/dbchangelog
+    http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-2.0.xsd'>
+  <changeSet id="006" author="ur">
+    <sql>
+      INSERT INTO `animal`.breedLookup (id, breed)
+      VALUES
+      (default, 'Am Bulldog'),
+      (default, 'Blue Tick'),
+      (default, 'Labrador'),
+      (default, 'Gr Shepard');
+    </sql>
+  </changeSet>
+</databaseChangeLog>

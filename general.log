@@ -1,0 +1,756 @@
+[2022-04-29 16:18:16 INFO]: install::setup-logging ended
+================
+[2022-04-29 16:18:16 INFO]: install::start-up started
+[2022-04-29 16:18:16 INFO]: install::start-up starting services
+[2022-04-29 16:18:16 INFO]: install::start-up ended
+================
+[2022-04-29 16:19:19 INFO]: install::root-check started
+[2022-04-29 16:19:19 INFO]: install::root-check ended
+================
+[2022-04-29 16:19:19 INFO]: install::docker-check started
+[2022-04-29 16:19:19 INFO]: install::docker-check ended
+================
+[2022-04-29 16:19:19 INFO]: install::docker-compose-check started
+[2022-04-29 16:19:19 INFO]: install::docker-compose-check ended
+================
+[2022-04-29 16:19:19 INFO]: install::tear-down started
+[2022-04-29 16:19:19 INFO]: install::tear-down starting services
+[2022-04-29 16:19:19 INFO]: install::tear-down ended
+================
+[2022-04-29 17:24:20 INFO]: install::root-check started
+[2022-04-29 17:24:20 INFO]: install::root-check ended
+================
+[2022-04-29 17:24:20 INFO]: install::docker-check started
+[2022-04-29 17:24:20 INFO]: install::docker-check ended
+================
+[2022-04-29 17:24:20 INFO]: install::docker-compose-check started
+[2022-04-29 17:24:20 INFO]: install::docker-compose-check ended
+================
+[2022-04-29 17:25:32 INFO]: install::root-check started
+[2022-04-29 17:25:32 INFO]: install::root-check ended
+================
+[2022-04-29 17:25:32 INFO]: install::docker-check started
+[2022-04-29 17:25:32 INFO]: install::docker-check ended
+================
+[2022-04-29 17:25:32 INFO]: install::docker-compose-check started
+[2022-04-29 17:25:32 INFO]: install::docker-compose-check ended
+================
+[2022-04-29 17:25:32 INFO]: install::tear-down started
+[2022-04-29 17:25:32 INFO]: install::tear-down starting services
+[2022-04-29 17:25:32 INFO]: install::tear-down ended
+================
+[2022-04-29 17:29:20 INFO]: install::root-check started
+[2022-04-29 17:29:20 INFO]: install::root-check ended
+================
+[2022-04-29 17:29:20 INFO]: install::docker-check started
+[2022-04-29 17:29:20 INFO]: install::docker-check ended
+================
+[2022-04-29 17:29:20 INFO]: install::docker-compose-check started
+[2022-04-29 17:29:20 INFO]: install::docker-compose-check ended
+================
+[2022-04-29 17:30:32 INFO]: install::root-check started
+[2022-04-29 17:30:32 INFO]: install::root-check ended
+================
+[2022-04-29 17:30:32 INFO]: install::docker-check started
+[2022-04-29 17:30:32 INFO]: install::docker-check ended
+================
+[2022-04-29 17:30:32 INFO]: install::docker-compose-check started
+[2022-04-29 17:30:32 INFO]: install::docker-compose-check ended
+================
+[2022-04-29 17:30:32 INFO]: install::tear-down started
+[2022-04-29 17:30:32 INFO]: install::tear-down starting services
+[2022-04-29 17:30:32 INFO]: install::tear-down ended
+================
+[2022-04-29 17:32:07 INFO]: install::root-check started
+[2022-04-29 17:32:07 INFO]: install::root-check ended
+================
+[2022-04-29 17:32:07 INFO]: install::docker-check started
+[2022-04-29 17:32:07 INFO]: install::docker-check ended
+================
+[2022-04-29 17:32:07 INFO]: install::docker-compose-check started
+[2022-04-29 17:32:07 INFO]: install::docker-compose-check ended
+================
+[2022-04-29 17:33:16 INFO]: install::root-check started
+[2022-04-29 17:33:16 INFO]: install::root-check ended
+================
+[2022-04-29 17:33:16 INFO]: install::docker-check started
+[2022-04-29 17:33:16 INFO]: install::docker-check ended
+================
+[2022-04-29 17:33:16 INFO]: install::docker-compose-check started
+[2022-04-29 17:33:16 INFO]: install::docker-compose-check ended
+================
+[2022-04-29 17:33:16 INFO]: install::tear-down started
+[2022-04-29 17:33:16 INFO]: install::tear-down starting services
+[2022-04-29 17:33:16 INFO]: install::tear-down ended
+================
+[2022-04-29 17:38:56 INFO]: install::root-check started
+[2022-04-29 17:38:56 INFO]: install::root-check ended
+================
+[2022-04-29 17:38:56 INFO]: install::docker-check started
+[2022-04-29 17:38:56 INFO]: install::docker-check ended
+================
+[2022-04-29 17:38:56 INFO]: install::docker-compose-check started
+[2022-04-29 17:38:56 INFO]: install::docker-compose-check ended
+================
+[2022-04-29 17:39:39 INFO]: install::root-check started
+[2022-04-29 17:39:39 INFO]: install::root-check ended
+================
+[2022-04-29 17:39:39 INFO]: install::docker-check started
+[2022-04-29 17:39:39 INFO]: install::docker-check ended
+================
+[2022-04-29 17:39:39 INFO]: install::docker-compose-check started
+[2022-04-29 17:39:39 INFO]: install::docker-compose-check ended
+================
+[2022-04-29 17:39:39 INFO]: install::tear-down started
+[2022-04-29 17:39:39 INFO]: install::tear-down starting services
+[2022-04-29 17:39:39 INFO]: install::tear-down ended
+================
+[2022-04-29 17:41:27 INFO]: install::root-check started
+[2022-04-29 17:41:27 INFO]: install::root-check ended
+================
+[2022-04-29 17:41:27 INFO]: install::docker-check started
+[2022-04-29 17:41:27 INFO]: install::docker-check ended
+================
+[2022-04-29 17:41:27 INFO]: install::docker-compose-check started
+[2022-04-29 17:41:27 INFO]: install::docker-compose-check ended
+================
+[2022-04-29 17:43:43 INFO]: install::root-check started
+[2022-04-29 17:43:43 INFO]: install::root-check ended
+================
+[2022-04-29 17:43:43 INFO]: install::docker-check started
+[2022-04-29 17:43:43 INFO]: install::docker-check ended
+================
+[2022-04-29 17:43:43 INFO]: install::docker-compose-check started
+[2022-04-29 17:43:43 INFO]: install::docker-compose-check ended
+================
+[2022-04-29 17:43:43 INFO]: install::tear-down started
+[2022-04-29 17:43:43 INFO]: install::tear-down starting services
+[2022-04-29 17:43:43 INFO]: install::tear-down ended
+================
+[2022-04-29 17:45:32 INFO]: install::root-check started
+[2022-04-29 17:45:32 INFO]: install::root-check ended
+================
+[2022-04-29 17:45:32 INFO]: install::docker-check started
+[2022-04-29 17:45:32 INFO]: install::docker-check ended
+================
+[2022-04-29 17:45:32 INFO]: install::docker-compose-check started
+[2022-04-29 17:45:32 INFO]: install::docker-compose-check ended
+================
+[2022-04-29 17:51:48 INFO]: install::root-check started
+[2022-04-29 17:51:48 INFO]: install::root-check ended
+================
+[2022-04-29 17:51:48 INFO]: install::docker-check started
+[2022-04-29 17:51:48 INFO]: install::docker-check ended
+================
+[2022-04-29 17:51:48 INFO]: install::docker-compose-check started
+[2022-04-29 17:51:48 INFO]: install::docker-compose-check ended
+================
+[2022-04-29 17:51:48 INFO]: install::tear-down started
+[2022-04-29 17:51:48 INFO]: install::tear-down starting services
+[2022-04-29 17:51:48 INFO]: install::tear-down ended
+================
+[2022-04-29 17:51:51 INFO]: install::root-check started
+[2022-04-29 17:51:51 INFO]: install::root-check ended
+================
+[2022-04-29 17:51:51 INFO]: install::docker-check started
+[2022-04-29 17:51:51 INFO]: install::docker-check ended
+================
+[2022-04-29 17:51:51 INFO]: install::docker-compose-check started
+[2022-04-29 17:51:51 INFO]: install::docker-compose-check ended
+================
+[2022-04-29 17:53:14 INFO]: install::root-check started
+[2022-04-29 17:53:14 INFO]: install::root-check ended
+================
+[2022-04-29 17:53:14 INFO]: install::docker-check started
+[2022-04-29 17:53:14 INFO]: install::docker-check ended
+================
+[2022-04-29 17:53:14 INFO]: install::docker-compose-check started
+[2022-04-29 17:53:14 INFO]: install::docker-compose-check ended
+================
+[2022-04-29 17:54:34 INFO]: install::root-check started
+[2022-04-29 17:54:34 INFO]: install::root-check ended
+================
+[2022-04-29 17:54:34 INFO]: install::docker-check started
+[2022-04-29 17:54:34 INFO]: install::docker-check ended
+================
+[2022-04-29 17:54:34 INFO]: install::docker-compose-check started
+[2022-04-29 17:54:34 INFO]: install::docker-compose-check ended
+================
+[2022-04-29 17:54:34 INFO]: install::tear-down started
+[2022-04-29 17:54:34 INFO]: install::tear-down starting services
+[2022-04-29 17:54:34 INFO]: install::tear-down ended
+================
+[2022-04-29 17:54:37 INFO]: install::root-check started
+[2022-04-29 17:54:37 INFO]: install::root-check ended
+================
+[2022-04-29 17:54:37 INFO]: install::docker-check started
+[2022-04-29 17:54:37 INFO]: install::docker-check ended
+================
+[2022-04-29 17:54:37 INFO]: install::docker-compose-check started
+[2022-04-29 17:54:37 INFO]: install::docker-compose-check ended
+================
+[2022-04-29 18:02:35 INFO]: install::root-check started
+[2022-04-29 18:02:35 INFO]: install::root-check ended
+================
+[2022-04-29 18:02:35 INFO]: install::docker-check started
+[2022-04-29 18:02:35 INFO]: install::docker-check ended
+================
+[2022-04-29 18:02:35 INFO]: install::docker-compose-check started
+[2022-04-29 18:02:35 INFO]: install::docker-compose-check ended
+================
+[2022-04-29 18:02:35 INFO]: install::tear-down started
+[2022-04-29 18:02:35 INFO]: install::tear-down starting services
+[2022-04-29 18:02:35 INFO]: install::tear-down ended
+================
+[2022-04-29 18:02:38 INFO]: install::root-check started
+[2022-04-29 18:02:38 INFO]: install::root-check ended
+================
+[2022-04-29 18:02:38 INFO]: install::docker-check started
+[2022-04-29 18:02:38 INFO]: install::docker-check ended
+================
+[2022-04-29 18:02:38 INFO]: install::docker-compose-check started
+[2022-04-29 18:02:38 INFO]: install::docker-compose-check ended
+================
+[2022-04-29 18:03:45 INFO]: install::root-check started
+[2022-04-29 18:03:45 INFO]: install::root-check ended
+================
+[2022-04-29 18:03:45 INFO]: install::docker-check started
+[2022-04-29 18:03:45 INFO]: install::docker-check ended
+================
+[2022-04-29 18:03:45 INFO]: install::docker-compose-check started
+[2022-04-29 18:03:45 INFO]: install::docker-compose-check ended
+================
+[2022-04-29 18:05:20 INFO]: install::root-check started
+[2022-04-29 18:05:20 INFO]: install::root-check ended
+================
+[2022-04-29 18:05:20 INFO]: install::docker-check started
+[2022-04-29 18:05:20 INFO]: install::docker-check ended
+================
+[2022-04-29 18:05:20 INFO]: install::docker-compose-check started
+[2022-04-29 18:05:20 INFO]: install::docker-compose-check ended
+================
+[2022-04-29 18:06:06 INFO]: install::root-check started
+[2022-04-29 18:06:06 INFO]: install::root-check ended
+================
+[2022-04-29 18:06:06 INFO]: install::docker-check started
+[2022-04-29 18:06:06 INFO]: install::docker-check ended
+================
+[2022-04-29 18:06:06 INFO]: install::docker-compose-check started
+[2022-04-29 18:06:06 INFO]: install::docker-compose-check ended
+================
+[2022-04-29 18:06:06 INFO]: install::tear-down started
+[2022-04-29 18:06:06 INFO]: install::tear-down starting services
+[2022-04-29 18:06:06 INFO]: install::tear-down ended
+================
+[2022-04-29 18:15:41 INFO]: install::root-check started
+[2022-04-29 18:15:41 INFO]: install::root-check ended
+================
+[2022-04-29 18:15:41 INFO]: install::docker-check started
+[2022-04-29 18:15:41 INFO]: install::docker-check ended
+================
+[2022-04-29 18:15:41 INFO]: install::docker-compose-check started
+[2022-04-29 18:15:41 INFO]: install::docker-compose-check ended
+================
+[2022-04-29 18:17:07 INFO]: install::root-check started
+[2022-04-29 18:17:07 INFO]: install::root-check ended
+================
+[2022-04-29 18:17:07 INFO]: install::docker-check started
+[2022-04-29 18:17:07 INFO]: install::docker-check ended
+================
+[2022-04-29 18:17:07 INFO]: install::docker-compose-check started
+[2022-04-29 18:17:07 INFO]: install::docker-compose-check ended
+================
+[2022-04-29 18:17:52 INFO]: install::root-check started
+[2022-04-29 18:17:52 INFO]: install::root-check ended
+================
+[2022-04-29 18:17:52 INFO]: install::docker-check started
+[2022-04-29 18:17:52 INFO]: install::docker-check ended
+================
+[2022-04-29 18:17:52 INFO]: install::docker-compose-check started
+[2022-04-29 18:17:52 INFO]: install::docker-compose-check ended
+================
+[2022-04-29 18:17:52 INFO]: install::tear-down started
+[2022-04-29 18:17:52 INFO]: install::tear-down starting services
+[2022-04-29 18:17:52 INFO]: install::tear-down ended
+================
+[2022-04-29 18:29:28 INFO]: install::root-check started
+[2022-04-29 18:29:28 INFO]: install::root-check ended
+================
+[2022-04-29 18:29:28 INFO]: install::docker-check started
+[2022-04-29 18:29:28 INFO]: install::docker-check ended
+================
+[2022-04-29 18:29:28 INFO]: install::docker-compose-check started
+[2022-04-29 18:29:28 INFO]: install::docker-compose-check ended
+================
+[2022-04-29 18:31:06 INFO]: install::root-check started
+[2022-04-29 18:31:06 INFO]: install::root-check ended
+================
+[2022-04-29 18:31:06 INFO]: install::docker-check started
+[2022-04-29 18:31:06 INFO]: install::docker-check ended
+================
+[2022-04-29 18:31:06 INFO]: install::docker-compose-check started
+[2022-04-29 18:31:06 INFO]: install::docker-compose-check ended
+================
+[2022-04-29 18:31:54 INFO]: install::root-check started
+[2022-04-29 18:31:54 INFO]: install::root-check ended
+================
+[2022-04-29 18:31:54 INFO]: install::docker-check started
+[2022-04-29 18:31:54 INFO]: install::docker-check ended
+================
+[2022-04-29 18:31:54 INFO]: install::docker-compose-check started
+[2022-04-29 18:31:54 INFO]: install::docker-compose-check ended
+================
+[2022-04-29 18:31:54 INFO]: install::tear-down started
+[2022-04-29 18:31:54 INFO]: install::tear-down starting services
+[2022-04-29 18:31:54 INFO]: install::tear-down ended
+================
+[2022-04-29 18:35:01 INFO]: install::root-check started
+[2022-04-29 18:35:01 INFO]: install::root-check ended
+================
+[2022-04-29 18:35:01 INFO]: install::docker-check started
+[2022-04-29 18:35:01 INFO]: install::docker-check ended
+================
+[2022-04-29 18:35:01 INFO]: install::docker-compose-check started
+[2022-04-29 18:35:01 INFO]: install::docker-compose-check ended
+================
+[2022-04-29 18:36:03 INFO]: install::root-check started
+[2022-04-29 18:36:03 INFO]: install::root-check ended
+================
+[2022-04-29 18:36:03 INFO]: install::docker-check started
+[2022-04-29 18:36:03 INFO]: install::docker-check ended
+================
+[2022-04-29 18:36:03 INFO]: install::docker-compose-check started
+[2022-04-29 18:36:03 INFO]: install::docker-compose-check ended
+================
+[2022-04-29 18:36:03 INFO]: install::tear-down started
+[2022-04-29 18:36:03 INFO]: install::tear-down starting services
+[2022-04-29 18:36:03 INFO]: install::tear-down ended
+================
+[2022-04-29 18:47:18 INFO]: install::root-check started
+[2022-04-29 18:47:18 INFO]: install::root-check ended
+================
+[2022-04-29 18:47:18 INFO]: install::docker-check started
+[2022-04-29 18:47:18 INFO]: install::docker-check ended
+================
+[2022-04-29 18:47:18 INFO]: install::docker-compose-check started
+[2022-04-29 18:47:18 INFO]: install::docker-compose-check ended
+================
+[2022-04-29 18:50:37 INFO]: install::root-check started
+[2022-04-29 18:50:37 INFO]: install::root-check ended
+================
+[2022-04-29 18:50:37 INFO]: install::docker-check started
+[2022-04-29 18:50:37 INFO]: install::docker-check ended
+================
+[2022-04-29 18:50:37 INFO]: install::docker-compose-check started
+[2022-04-29 18:50:37 INFO]: install::docker-compose-check ended
+================
+[2022-04-29 18:52:49 INFO]: install::root-check started
+[2022-04-29 18:52:49 INFO]: install::root-check ended
+================
+[2022-04-29 18:52:49 INFO]: install::docker-check started
+[2022-04-29 18:52:49 INFO]: install::docker-check ended
+================
+[2022-04-29 18:52:49 INFO]: install::docker-compose-check started
+[2022-04-29 18:52:49 INFO]: install::docker-compose-check ended
+================
+[2022-04-29 18:52:49 INFO]: install::tear-down started
+[2022-04-29 18:52:49 INFO]: install::tear-down starting services
+[2022-04-29 18:52:49 INFO]: install::tear-down ended
+================
+[2022-04-30 07:45:24 INFO]: install::root-check started
+[2022-04-30 07:45:24 INFO]: install::root-check ended
+================
+[2022-04-30 07:45:24 INFO]: install::docker-check started
+[2022-04-30 07:45:24 INFO]: install::docker-check ended
+================
+[2022-04-30 07:45:24 INFO]: install::docker-compose-check started
+[2022-04-30 07:45:24 INFO]: install::docker-compose-check ended
+================
+[2022-04-30 08:01:16 INFO]: install::root-check started
+[2022-04-30 08:01:16 INFO]: install::root-check ended
+================
+[2022-04-30 08:01:16 INFO]: install::docker-check started
+[2022-04-30 08:01:16 INFO]: install::docker-check ended
+================
+[2022-04-30 08:01:16 INFO]: install::docker-compose-check started
+[2022-04-30 08:01:16 INFO]: install::docker-compose-check ended
+================
+[2022-04-30 08:03:04 INFO]: install::root-check started
+[2022-04-30 08:03:04 INFO]: install::root-check ended
+================
+[2022-04-30 08:03:04 INFO]: install::docker-check started
+[2022-04-30 08:03:04 INFO]: install::docker-check ended
+================
+[2022-04-30 08:03:04 INFO]: install::docker-compose-check started
+[2022-04-30 08:03:04 INFO]: install::docker-compose-check ended
+================
+[2022-04-30 08:14:59 INFO]: install::root-check started
+[2022-04-30 08:14:59 INFO]: install::root-check ended
+================
+[2022-04-30 08:14:59 INFO]: install::docker-check started
+[2022-04-30 08:14:59 INFO]: install::docker-check ended
+================
+[2022-04-30 08:14:59 INFO]: install::docker-compose-check started
+[2022-04-30 08:14:59 INFO]: install::docker-compose-check ended
+================
+[2022-04-30 08:20:48 INFO]: install::root-check started
+[2022-04-30 08:20:48 INFO]: install::root-check ended
+================
+[2022-04-30 08:20:48 INFO]: install::docker-check started
+[2022-04-30 08:20:48 INFO]: install::docker-check ended
+================
+[2022-04-30 08:20:48 INFO]: install::docker-compose-check started
+[2022-04-30 08:20:48 INFO]: install::docker-compose-check ended
+================
+[2022-04-30 08:23:13 INFO]: install::root-check started
+[2022-04-30 08:23:13 INFO]: install::root-check ended
+================
+[2022-04-30 08:23:13 INFO]: install::docker-check started
+[2022-04-30 08:23:13 INFO]: install::docker-check ended
+================
+[2022-04-30 08:23:13 INFO]: install::docker-compose-check started
+[2022-04-30 08:23:13 INFO]: install::docker-compose-check ended
+================
+[2022-04-30 08:23:13 INFO]: install::tear-down started
+[2022-04-30 08:23:13 INFO]: install::tear-down starting services
+[2022-04-30 08:23:13 INFO]: install::tear-down ended
+================
+[2022-04-30 08:24:56 INFO]: install::root-check started
+[2022-04-30 08:24:56 INFO]: install::root-check ended
+================
+[2022-04-30 08:24:56 INFO]: install::docker-check started
+[2022-04-30 08:24:56 INFO]: install::docker-check ended
+================
+[2022-04-30 08:24:56 INFO]: install::docker-compose-check started
+[2022-04-30 08:24:56 INFO]: install::docker-compose-check ended
+================
+[2022-04-30 08:24:56 INFO]: install::tear-down started
+[2022-04-30 08:24:56 INFO]: install::tear-down starting services
+[2022-04-30 08:24:56 INFO]: install::tear-down ended
+================
+[2022-04-30 08:26:06 INFO]: install::root-check started
+[2022-04-30 08:26:06 INFO]: install::root-check ended
+================
+[2022-04-30 08:26:06 INFO]: install::docker-check started
+[2022-04-30 08:26:06 INFO]: install::docker-check ended
+================
+[2022-04-30 08:26:06 INFO]: install::docker-compose-check started
+[2022-04-30 08:26:06 INFO]: install::docker-compose-check ended
+================
+[2022-04-30 08:26:06 INFO]: install::tear-down started
+[2022-04-30 08:26:06 INFO]: install::tear-down starting services
+[2022-04-30 08:26:06 INFO]: install::tear-down ended
+================
+[2022-04-30 08:26:13 INFO]: install::root-check started
+[2022-04-30 08:26:13 INFO]: install::root-check ended
+================
+[2022-04-30 08:26:13 INFO]: install::docker-check started
+[2022-04-30 08:26:13 INFO]: install::docker-check ended
+================
+[2022-04-30 08:26:13 INFO]: install::docker-compose-check started
+[2022-04-30 08:26:13 INFO]: install::docker-compose-check ended
+================
+[2022-04-30 08:30:10 INFO]: install::root-check started
+[2022-04-30 08:30:10 INFO]: install::root-check ended
+================
+[2022-04-30 08:30:10 INFO]: install::docker-check started
+[2022-04-30 08:30:10 INFO]: install::docker-check ended
+================
+[2022-04-30 08:30:10 INFO]: install::docker-compose-check started
+[2022-04-30 08:30:10 INFO]: install::docker-compose-check ended
+================
+[2022-04-30 08:30:10 INFO]: install::tear-down started
+[2022-04-30 08:30:10 INFO]: install::tear-down starting services
+[2022-04-30 08:30:10 INFO]: install::tear-down ended
+================
+[2022-04-30 08:30:17 INFO]: install::root-check started
+[2022-04-30 08:30:17 INFO]: install::root-check ended
+================
+[2022-04-30 08:30:17 INFO]: install::docker-check started
+[2022-04-30 08:30:17 INFO]: install::docker-check ended
+================
+[2022-04-30 08:30:17 INFO]: install::docker-compose-check started
+[2022-04-30 08:30:17 INFO]: install::docker-compose-check ended
+================
+[2022-04-30 08:31:22 INFO]: install::root-check started
+[2022-04-30 08:31:22 INFO]: install::root-check ended
+================
+[2022-04-30 08:31:22 INFO]: install::docker-check started
+[2022-04-30 08:31:22 INFO]: install::docker-check ended
+================
+[2022-04-30 08:31:22 INFO]: install::docker-compose-check started
+[2022-04-30 08:31:22 INFO]: install::docker-compose-check ended
+================
+[2022-04-30 08:31:22 INFO]: install::tear-down started
+[2022-04-30 08:31:22 INFO]: install::tear-down starting services
+[2022-04-30 08:31:22 INFO]: install::tear-down ended
+================
+[2022-04-30 08:32:07 INFO]: install::root-check started
+[2022-04-30 08:32:07 INFO]: install::root-check ended
+================
+[2022-04-30 08:32:07 INFO]: install::docker-check started
+[2022-04-30 08:32:07 INFO]: install::docker-check ended
+================
+[2022-04-30 08:32:07 INFO]: install::docker-compose-check started
+[2022-04-30 08:32:07 INFO]: install::docker-compose-check ended
+================
+[2022-04-30 08:33:06 INFO]: install::root-check started
+[2022-04-30 08:33:06 INFO]: install::root-check ended
+================
+[2022-04-30 08:33:06 INFO]: install::docker-check started
+[2022-04-30 08:33:06 INFO]: install::docker-check ended
+================
+[2022-04-30 08:33:06 INFO]: install::docker-compose-check started
+[2022-04-30 08:33:06 INFO]: install::docker-compose-check ended
+================
+[2022-04-30 08:33:06 INFO]: install::tear-down started
+[2022-04-30 08:33:06 INFO]: install::tear-down starting services
+[2022-04-30 08:33:06 INFO]: install::tear-down ended
+================
+[2022-04-30 08:35:21 INFO]: install::root-check started
+[2022-04-30 08:35:21 INFO]: install::root-check ended
+================
+[2022-04-30 08:35:21 INFO]: install::docker-check started
+[2022-04-30 08:35:21 INFO]: install::docker-check ended
+================
+[2022-04-30 08:35:21 INFO]: install::docker-compose-check started
+[2022-04-30 08:35:21 INFO]: install::docker-compose-check ended
+================
+[2022-04-30 08:38:35 INFO]: install::root-check started
+[2022-04-30 08:38:35 INFO]: install::root-check ended
+================
+[2022-04-30 08:38:35 INFO]: install::docker-check started
+[2022-04-30 08:38:35 INFO]: install::docker-check ended
+================
+[2022-04-30 08:38:35 INFO]: install::docker-compose-check started
+[2022-04-30 08:38:35 INFO]: install::docker-compose-check ended
+================
+[2022-04-30 08:38:35 INFO]: install::tear-down started
+[2022-04-30 08:38:35 INFO]: install::tear-down starting services
+[2022-04-30 08:38:35 INFO]: install::tear-down ended
+================
+[2022-04-30 08:41:55 INFO]: install::root-check started
+[2022-04-30 08:41:55 INFO]: install::root-check ended
+================
+[2022-04-30 08:41:55 INFO]: install::docker-check started
+[2022-04-30 08:41:55 INFO]: install::docker-check ended
+================
+[2022-04-30 08:41:55 INFO]: install::docker-compose-check started
+[2022-04-30 08:41:55 INFO]: install::docker-compose-check ended
+================
+[2022-04-30 08:44:47 INFO]: install::root-check started
+[2022-04-30 08:44:47 INFO]: install::root-check ended
+================
+[2022-04-30 08:44:47 INFO]: install::docker-check started
+[2022-04-30 08:44:47 INFO]: install::docker-check ended
+================
+[2022-04-30 08:44:47 INFO]: install::docker-compose-check started
+[2022-04-30 08:44:47 INFO]: install::docker-compose-check ended
+================
+[2022-04-30 08:44:47 INFO]: install::tear-down started
+[2022-04-30 08:44:47 INFO]: install::tear-down starting services
+[2022-04-30 08:44:47 INFO]: install::tear-down ended
+================
+[2022-04-30 08:54:14 INFO]: install::root-check started
+[2022-04-30 08:54:14 INFO]: install::root-check ended
+================
+[2022-04-30 08:54:14 INFO]: install::docker-check started
+[2022-04-30 08:54:14 INFO]: install::docker-check ended
+================
+[2022-04-30 08:54:14 INFO]: install::docker-compose-check started
+[2022-04-30 08:54:14 INFO]: install::docker-compose-check ended
+================
+[2022-04-30 08:55:45 INFO]: install::root-check started
+[2022-04-30 08:55:45 INFO]: install::root-check ended
+================
+[2022-04-30 08:55:45 INFO]: install::docker-check started
+[2022-04-30 08:55:45 INFO]: install::docker-check ended
+================
+[2022-04-30 08:55:45 INFO]: install::docker-compose-check started
+[2022-04-30 08:55:45 INFO]: install::docker-compose-check ended
+================
+[2022-04-30 08:55:45 INFO]: install::tear-down started
+[2022-04-30 08:55:45 INFO]: install::tear-down starting services
+[2022-04-30 08:55:45 INFO]: install::tear-down ended
+================
+[2022-04-30 08:58:37 INFO]: install::root-check started
+[2022-04-30 08:58:37 INFO]: install::root-check ended
+================
+[2022-04-30 08:58:37 INFO]: install::docker-check started
+[2022-04-30 08:58:37 INFO]: install::docker-check ended
+================
+[2022-04-30 08:58:37 INFO]: install::docker-compose-check started
+[2022-04-30 08:58:37 INFO]: install::docker-compose-check ended
+================
+[2022-04-30 09:05:20 INFO]: install::root-check started
+[2022-04-30 09:05:20 INFO]: install::root-check ended
+================
+[2022-04-30 09:05:20 INFO]: install::docker-check started
+[2022-04-30 09:05:20 INFO]: install::docker-check ended
+================
+[2022-04-30 09:05:20 INFO]: install::docker-compose-check started
+[2022-04-30 09:05:20 INFO]: install::docker-compose-check ended
+================
+[2022-04-30 09:05:20 INFO]: install::tear-down started
+[2022-04-30 09:05:20 INFO]: install::tear-down starting services
+[2022-04-30 09:05:20 INFO]: install::tear-down ended
+================
+[2022-04-30 09:05:26 INFO]: install::root-check started
+[2022-04-30 09:05:26 INFO]: install::root-check ended
+================
+[2022-04-30 09:05:26 INFO]: install::docker-check started
+[2022-04-30 09:05:26 INFO]: install::docker-check ended
+================
+[2022-04-30 09:05:26 INFO]: install::docker-compose-check started
+[2022-04-30 09:05:26 INFO]: install::docker-compose-check ended
+================
+[2022-04-30 09:13:47 INFO]: install::root-check started
+[2022-04-30 09:13:47 INFO]: install::root-check ended
+================
+[2022-04-30 09:13:47 INFO]: install::docker-check started
+[2022-04-30 09:13:47 INFO]: install::docker-check ended
+================
+[2022-04-30 09:13:47 INFO]: install::docker-compose-check started
+[2022-04-30 09:13:47 INFO]: install::docker-compose-check ended
+================
+[2022-04-30 09:13:47 INFO]: install::tear-down started
+[2022-04-30 09:13:47 INFO]: install::tear-down starting services
+[2022-04-30 09:13:47 INFO]: install::tear-down ended
+================
+[2022-04-30 09:13:50 INFO]: install::root-check started
+[2022-04-30 09:13:50 INFO]: install::root-check ended
+================
+[2022-04-30 09:13:50 INFO]: install::docker-check started
+[2022-04-30 09:13:50 INFO]: install::docker-check ended
+================
+[2022-04-30 09:13:50 INFO]: install::docker-compose-check started
+[2022-04-30 09:13:50 INFO]: install::docker-compose-check ended
+================
+[2022-04-30 09:16:23 INFO]: install::root-check started
+[2022-04-30 09:16:23 INFO]: install::root-check ended
+================
+[2022-04-30 09:16:23 INFO]: install::docker-check started
+[2022-04-30 09:16:23 INFO]: install::docker-check ended
+================
+[2022-04-30 09:16:23 INFO]: install::docker-compose-check started
+[2022-04-30 09:16:23 INFO]: install::docker-compose-check ended
+================
+[2022-04-30 09:16:23 INFO]: install::tear-down started
+[2022-04-30 09:16:23 INFO]: install::tear-down starting services
+[2022-04-30 09:16:23 INFO]: install::tear-down ended
+================
+[2022-04-30 09:16:28 INFO]: install::root-check started
+[2022-04-30 09:16:28 INFO]: install::root-check ended
+================
+[2022-04-30 09:16:28 INFO]: install::docker-check started
+[2022-04-30 09:16:28 INFO]: install::docker-check ended
+================
+[2022-04-30 09:16:28 INFO]: install::docker-compose-check started
+[2022-04-30 09:16:28 INFO]: install::docker-compose-check ended
+================
+[2022-04-30 09:20:14 INFO]: install::root-check started
+[2022-04-30 09:20:14 INFO]: install::root-check ended
+================
+[2022-04-30 09:20:14 INFO]: install::docker-check started
+[2022-04-30 09:20:14 INFO]: install::docker-check ended
+================
+[2022-04-30 09:20:14 INFO]: install::docker-compose-check started
+[2022-04-30 09:20:14 INFO]: install::docker-compose-check ended
+================
+[2022-04-30 09:20:14 INFO]: install::tear-down started
+[2022-04-30 09:20:14 INFO]: install::tear-down starting services
+[2022-04-30 09:20:14 INFO]: install::tear-down ended
+================
+[2022-04-30 09:20:19 INFO]: install::root-check started
+[2022-04-30 09:20:19 INFO]: install::root-check ended
+================
+[2022-04-30 09:20:19 INFO]: install::docker-check started
+[2022-04-30 09:20:19 INFO]: install::docker-check ended
+================
+[2022-04-30 09:20:19 INFO]: install::docker-compose-check started
+[2022-04-30 09:20:19 INFO]: install::docker-compose-check ended
+================
+[2022-04-30 09:21:39 INFO]: install::root-check started
+[2022-04-30 09:21:39 INFO]: install::root-check ended
+================
+[2022-04-30 09:21:39 INFO]: install::docker-check started
+[2022-04-30 09:21:39 INFO]: install::docker-check ended
+================
+[2022-04-30 09:21:39 INFO]: install::docker-compose-check started
+[2022-04-30 09:21:39 INFO]: install::docker-compose-check ended
+================
+[2022-04-30 09:22:55 INFO]: install::root-check started
+[2022-04-30 09:22:55 INFO]: install::root-check ended
+================
+[2022-04-30 09:22:55 INFO]: install::docker-check started
+[2022-04-30 09:22:55 INFO]: install::docker-check ended
+================
+[2022-04-30 09:22:55 INFO]: install::docker-compose-check started
+[2022-04-30 09:22:55 INFO]: install::docker-compose-check ended
+================
+[2022-04-30 09:36:01 INFO]: install::root-check started
+[2022-04-30 09:36:01 INFO]: install::root-check ended
+================
+[2022-04-30 09:36:01 INFO]: install::docker-check started
+[2022-04-30 09:36:01 INFO]: install::docker-check ended
+================
+[2022-04-30 09:36:01 INFO]: install::docker-compose-check started
+[2022-04-30 09:36:01 INFO]: install::docker-compose-check ended
+================
+[2022-04-30 09:36:01 INFO]: install::tear-down started
+[2022-04-30 09:36:01 INFO]: install::tear-down starting services
+[2022-04-30 09:36:01 INFO]: install::tear-down ended
+================
+[2022-04-30 09:36:06 INFO]: install::root-check started
+[2022-04-30 09:36:06 INFO]: install::root-check ended
+================
+[2022-04-30 09:36:06 INFO]: install::docker-check started
+[2022-04-30 09:36:06 INFO]: install::docker-check ended
+================
+[2022-04-30 09:36:06 INFO]: install::docker-compose-check started
+[2022-04-30 09:36:06 INFO]: install::docker-compose-check ended
+================
+[2022-04-30 09:38:38 INFO]: install::root-check started
+[2022-04-30 09:38:38 INFO]: install::root-check ended
+================
+[2022-04-30 09:38:38 INFO]: install::docker-check started
+[2022-04-30 09:38:38 INFO]: install::docker-check ended
+================
+[2022-04-30 09:38:38 INFO]: install::docker-compose-check started
+[2022-04-30 09:38:38 INFO]: install::docker-compose-check ended
+================
+[2022-04-30 09:38:38 INFO]: install::tear-down started
+[2022-04-30 09:38:38 INFO]: install::tear-down starting services
+[2022-04-30 09:38:38 INFO]: install::tear-down ended
+================
+[2022-04-30 09:38:42 INFO]: install::root-check started
+[2022-04-30 09:38:42 INFO]: install::root-check ended
+================
+[2022-04-30 09:38:42 INFO]: install::docker-check started
+[2022-04-30 09:38:42 INFO]: install::docker-check ended
+================
+[2022-04-30 09:38:42 INFO]: install::docker-compose-check started
+[2022-04-30 09:38:42 INFO]: install::docker-compose-check ended
+================
+[2022-04-30 09:40:19 INFO]: install::root-check started
+[2022-04-30 09:40:19 INFO]: install::root-check ended
+================
+[2022-04-30 09:40:19 INFO]: install::docker-check started
+[2022-04-30 09:40:19 INFO]: install::docker-check ended
+================
+[2022-04-30 09:40:19 INFO]: install::docker-compose-check started
+[2022-04-30 09:40:19 INFO]: install::docker-compose-check ended
+================
+[2022-04-30 09:43:56 INFO]: install::root-check started
+[2022-04-30 09:43:56 INFO]: install::root-check ended
+================
+[2022-04-30 09:43:56 INFO]: install::docker-check started
+[2022-04-30 09:43:56 INFO]: install::docker-check ended
+================
+[2022-04-30 09:43:56 INFO]: install::docker-compose-check started
+[2022-04-30 09:43:56 INFO]: install::docker-compose-check ended
+================
+[2022-04-30 09:43:56 INFO]: install::tear-down started
+[2022-04-30 09:43:56 INFO]: install::tear-down starting services
+[2022-04-30 09:43:56 INFO]: install::tear-down ended
+================

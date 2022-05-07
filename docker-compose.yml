@@ -1,0 +1,45 @@
+version: '3'
+services:
+  java-srv:
+    build: java-srv
+    volumes:
+      - ./java-srv/log:/root/log
+    depends_on:
+      - liquibase-srv
+    links:
+      - "db:db"
+
+  liquibase-srv:
+    image: webdevops/liquibase:mysql
+    command: update
+    volumes:
+      - ./liquibase-srv:/liquibase
+    environment:
+      - LIQUIBASE_URL=jdbc:mysql://db:3306/animal
+      - LIQUIBASE_CHANGELOG=master.xml
+      - LIQUIBASE_USERNAME=maria
+      - LIQUIBASE_PASSWORD=pass
+    depends_on:
+      - db
+    links:
+      - db
+
+  db:
+    image: mariadb:latest
+    volumes:
+    #  - ./db/data_dump:/var/lib/mysqll
+      - ./db/sql:/docker-entrypoint-initdb.d
+    environment:
+      - MYSQL_ALLOW_EMPTY_PASSWORD=true
+      - MYSQL_USER=maria
+      - MYSQL_PASSWORD=pass
+
+#   adminer:
+#     image: adminer
+#     restart: always
+#     ports:
+#       - 80:8080
+#     depends_on:
+#       - liquibase-srv
+#     links:
+#       - "db:db"

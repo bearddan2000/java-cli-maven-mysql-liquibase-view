@@ -1,0 +1,2 @@
+GRANT ALL PRIVILEGES ON `animal`.* TO 'maria'@'%';
+FLUSH PRIVILEGES;
